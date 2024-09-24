@@ -1,5 +1,7 @@
-# Vue 3 + Vite
+# INSTRUCTIONS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+You have to put VITE_API_BASE_URL = "https://www.themealdb.com/api/json/v1/1/" in your .env file.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+then run npm install && npm run dev
+
+Do not hesitate to contact me at stelios.zoit@gmail.com
